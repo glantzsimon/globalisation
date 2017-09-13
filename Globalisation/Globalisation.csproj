@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dictionary.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Dictionary.resx</DependentUpon>
+    </Compile>
     <Compile Include="Dictionary.fr.Designer.cs">
       <DependentUpon>Dictionary.fr.resx</DependentUpon>
       <AutoGen>True</AutoGen>
@@ -58,6 +63,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Dictionary.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Dictionary.Designer.cs</LastGenOutput>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
