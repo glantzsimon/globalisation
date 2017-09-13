@@ -1,0 +1,13 @@
+C:\Workspace\ninestar\webapp\Globalisation\bin\Release\K9.Globalisation.dll
+C:\Workspace\ninestar\webapp\Globalisation\bin\Release\K9.Globalisation.pdb
+C:\Workspace\ninestar\webapp\Globalisation\bin\Release\fr\K9.Globalisation.resources.dll
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\K9.Globalisation.Dictionary.resources
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\K9.Globalisation.Dictionary.fr.resources
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\Globalisation.csproj.GenerateResource.Cache
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\fr\K9.Globalisation.resources.dll
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\K9.Globalisation.dll
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\K9.Globalisation.pdb
+C:\Workspace\ninestar\webapp\Globalisation\obj\Release\Globalisation.csprojResolveAssemblyReference.cache
+c:\workspace\ninestar\publish\int\K9.Globalisation.dll
+c:\workspace\ninestar\publish\int\K9.Globalisation.pdb
+c:\workspace\ninestar\publish\int\fr\K9.Globalisation.resources.dll
