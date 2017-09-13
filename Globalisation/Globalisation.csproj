@@ -67,12 +67,12 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Templates\en-gb\PasswordResetEmail.htm" />
-    <Content Include="Templates\en-gb\SupportQuery.htm" />
-    <Content Include="Templates\en-gb\WelcomeEmail.htm" />
-    <Content Include="Templates\fr\PasswordResetEmail.htm" />
-    <Content Include="Templates\fr\SupportQuery.htm" />
-    <Content Include="Templates\fr\WelcomeEmail.htm" />
+    <EmbeddedResource Include="Templates\en-gb\PasswordResetEmail.htm" />
+    <EmbeddedResource Include="Templates\en-gb\SupportQuery.htm" />
+    <EmbeddedResource Include="Templates\en-gb\WelcomeEmail.htm" />
+    <EmbeddedResource Include="Templates\fr\PasswordResetEmail.htm" />
+    <EmbeddedResource Include="Templates\fr\SupportQuery.htm" />
+    <EmbeddedResource Include="Templates\fr\WelcomeEmail.htm" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
