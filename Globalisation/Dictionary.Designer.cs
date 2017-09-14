@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace K9.Globalisation {
+namespace K9.Base.Globalisation {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace K9.Globalisation {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("K9.Globalisation.Dictionary", typeof(Dictionary).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("K9.Base.Globalisation.Dictionary", typeof(Dictionary).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

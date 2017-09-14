@@ -8,8 +8,8 @@
     <ProjectGuid>{37795DC6-45C9-458C-A3A5-48DA6534C35C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>K9.Globalisation</RootNamespace>
-    <AssemblyName>K9.Globalisation</AssemblyName>
+    <RootNamespace>K9.Base.Globalisation</RootNamespace>
+    <AssemblyName>K9.Base.Globalisation</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
