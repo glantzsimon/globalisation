@@ -1,5 +1,5 @@
 ﻿
-namespace K9.Globalisation
+namespace K9.Base.Globalisation
 {
 	public class Strings
 	{
