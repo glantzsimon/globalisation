@@ -73,7 +73,9 @@ namespace K9.Base.Globalisation
 			public const string Role = "Role";
 			public const string UserRole = "UserRole";
 			public const string UserRoles = "UserRoles";
-			public const string User = "User";
+		    public const string RolePermission = "RolePermission";
+		    public const string RolePermissions = "RolePermissions";
+            public const string User = "User";
 			public const string Message = "Message";
 			public const string NewsItem = "NewsItem";
 			public const string English = "English";

@@ -1515,6 +1515,24 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Role Permission.
+        /// </summary>
+        public static string RolePermission {
+            get {
+                return ResourceManager.GetString("RolePermission", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Role Permissions.
+        /// </summary>
+        public static string RolePermissions {
+            get {
+                return ResourceManager.GetString("RolePermissions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Roles.
         /// </summary>
         public static string Roles {
