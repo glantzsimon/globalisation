@@ -124,6 +124,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Your account has been deleted. We&apos;re sad to see you go!.
+        /// </summary>
+        public static string AccountDeleteSuccess {
+            get {
+                return ResourceManager.GetString("AccountDeleteSuccess", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Your account has been locked.
         /// </summary>
         public static string AccountLockedError {
@@ -507,6 +516,15 @@ namespace K9.Base.Globalisation {
         public static string Delete {
             get {
                 return ResourceManager.GetString("Delete", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to We were unable to delete your account.
+        /// </summary>
+        public static string DeleteAccountFailed {
+            get {
+                return ResourceManager.GetString("DeleteAccountFailed", resourceCulture);
             }
         }
         
@@ -1065,6 +1083,24 @@ namespace K9.Base.Globalisation {
         public static string Months {
             get {
                 return ResourceManager.GetString("Months", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Delete Your Account.
+        /// </summary>
+        public static string MyAccountDeleteAccount {
+            get {
+                return ResourceManager.GetString("MyAccountDeleteAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Are you sure you want to delete your account?.
+        /// </summary>
+        public static string MyAccountDeleteConfirm {
+            get {
+                return ResourceManager.GetString("MyAccountDeleteConfirm", resourceCulture);
             }
         }
         
@@ -1876,6 +1912,15 @@ namespace K9.Base.Globalisation {
         public static string UsernamePasswordIncorrectError {
             get {
                 return ResourceManager.GetString("UsernamePasswordIncorrectError", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to The user does not exist.
+        /// </summary>
+        public static string UserNotFoundError {
+            get {
+                return ResourceManager.GetString("UserNotFoundError", resourceCulture);
             }
         }
         

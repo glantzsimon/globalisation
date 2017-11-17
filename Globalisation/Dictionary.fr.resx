@@ -278,7 +278,7 @@
     <value>templates\fr\welcomeemail.htm;System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="ForgottenPasswordQuestion" xml:space="preserve">
-    <value>Vous avez oublié votre mot de passe?</value>
+    <value>Vous avez oublié votre mot de passe ?</value>
   </data>
   <data name="IfNoAccount" xml:space="preserve">
     <value>Si vous n'avez pas de compte</value>
@@ -374,7 +374,7 @@
     <value>Oui</value>
   </data>
   <data name="DeleteConfirm" xml:space="preserve">
-    <value>Etes-vous sûr de vouloir supprimer cet enregistrement?</value>
+    <value>Etes-vous sûr de vouloir supprimer cet enregistrement ?</value>
   </data>
   <data name="CreateNew" xml:space="preserve">
     <value>Créer Nouveau</value>
@@ -747,5 +747,20 @@
   </data>
   <data name="IsDeletedLabel" xml:space="preserve">
     <value>Supprimé</value>
+  </data>
+  <data name="AccountDeleteSuccess" xml:space="preserve">
+    <value>Votre compte a été supprimé. Nous sommes tristes de vous voir partir !</value>
+  </data>
+  <data name="DeleteAccountFailed" xml:space="preserve">
+    <value>Il n'a pas été possible de supprimer votre compte</value>
+  </data>
+  <data name="MyAccountDeleteAccount" xml:space="preserve">
+    <value>Supprimer Votre Compte</value>
+  </data>
+  <data name="MyAccountDeleteConfirm" xml:space="preserve">
+    <value>Etes-vous sûr de vouloir supprimer votre compte ?</value>
+  </data>
+  <data name="UserNotFoundError" xml:space="preserve">
+    <value>L'utilisateur n'existe pas</value>
   </data>
 </root>

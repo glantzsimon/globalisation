@@ -745,4 +745,19 @@
   <data name="IsDeletedLabel" xml:space="preserve">
     <value>Deleted</value>
   </data>
+  <data name="AccountDeleteSuccess" xml:space="preserve">
+    <value>Your account has been deleted. We're sad to see you go!</value>
+  </data>
+  <data name="DeleteAccountFailed" xml:space="preserve">
+    <value>We were unable to delete your account</value>
+  </data>
+  <data name="MyAccountDeleteAccount" xml:space="preserve">
+    <value>Delete Your Account</value>
+  </data>
+  <data name="MyAccountDeleteConfirm" xml:space="preserve">
+    <value>Are you sure you want to delete your account?</value>
+  </data>
+  <data name="UserNotFoundError" xml:space="preserve">
+    <value>The user does not exist</value>
+  </data>
 </root>
