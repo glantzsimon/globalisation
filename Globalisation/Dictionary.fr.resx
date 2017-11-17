@@ -745,4 +745,7 @@
   <data name="RolePermissions" xml:space="preserve">
     <value>Permissions de Rôle</value>
   </data>
+  <data name="IsDeletedLabel" xml:space="preserve">
+    <value>Supprimé</value>
+  </data>
 </root>

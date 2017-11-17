@@ -871,6 +871,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Deleted.
+        /// </summary>
+        public static string IsDeletedLabel {
+            get {
+                return ResourceManager.GetString("IsDeletedLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Do Not Mail.
         /// </summary>
         public static string IsUnsubscribedLabel {

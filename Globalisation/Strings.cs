@@ -50,7 +50,8 @@ namespace K9.Base.Globalisation
 			public const string PublishedByLabel = "PublishedByLabel";
 			public const string LanguageLabel = "LanguageLabel";
 			public const string ImageLabel = "ImageLabel";
-		}
+		    public const string IsDeletedLabel = "IsDeletedLabel";
+        }
 
 		public class Grammar
 		{
