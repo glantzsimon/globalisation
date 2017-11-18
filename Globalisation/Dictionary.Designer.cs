@@ -547,6 +547,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Delete My Account.
+        /// </summary>
+        public static string DeleteMyAccount {
+            get {
+                return ResourceManager.GetString("DeleteMyAccount", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Description.
         /// </summary>
         public static string DescriptionLabel {
@@ -1087,7 +1096,7 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Delete Your Account.
+        ///   Looks up a localized string similar to Delete My Account.
         /// </summary>
         public static string MyAccountDeleteAccount {
             get {

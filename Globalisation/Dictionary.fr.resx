@@ -755,12 +755,15 @@
     <value>Il n'a pas été possible de supprimer votre compte</value>
   </data>
   <data name="MyAccountDeleteAccount" xml:space="preserve">
-    <value>Supprimer Votre Compte</value>
+    <value>Supprimer Mon Compte</value>
   </data>
   <data name="MyAccountDeleteConfirm" xml:space="preserve">
     <value>Etes-vous sûr de vouloir supprimer votre compte ?</value>
   </data>
   <data name="UserNotFoundError" xml:space="preserve">
     <value>L'utilisateur n'existe pas</value>
+  </data>
+  <data name="DeleteMyAccount" xml:space="preserve">
+    <value>Supprimer Mon Compte</value>
   </data>
 </root>
