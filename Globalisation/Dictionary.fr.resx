@@ -766,4 +766,10 @@
   <data name="DeleteMyAccount" xml:space="preserve">
     <value>Supprimer Mon Compte</value>
   </data>
+  <data name="TitleLabel" xml:space="preserve">
+    <value>Titre</value>
+  </data>
+  <data name="UploadedOnLabel" xml:space="preserve">
+    <value>Téléchargé Le</value>
+  </data>
 </root>

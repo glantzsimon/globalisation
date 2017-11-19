@@ -1763,6 +1763,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Title.
+        /// </summary>
+        public static string TitleLabel {
+            get {
+                return ResourceManager.GetString("TitleLabel", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Today.
         /// </summary>
         public static string Today {
@@ -1840,6 +1849,15 @@ namespace K9.Base.Globalisation {
         public static string Upload {
             get {
                 return ResourceManager.GetString("Upload", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Uploaded On.
+        /// </summary>
+        public static string UploadedOnLabel {
+            get {
+                return ResourceManager.GetString("UploadedOnLabel", resourceCulture);
             }
         }
         

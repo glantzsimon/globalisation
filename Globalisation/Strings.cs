@@ -51,6 +51,8 @@ namespace K9.Base.Globalisation
 			public const string LanguageLabel = "LanguageLabel";
 			public const string ImageLabel = "ImageLabel";
 		    public const string IsDeletedLabel = "IsDeletedLabel";
+		    public const string UploadedOnLabel = "UploadedOnLabel";
+		    public const string TitleLabel = "TitleLabel";
         }
 
 		public class Grammar
