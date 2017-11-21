@@ -241,6 +241,51 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Archive Categories.
+        /// </summary>
+        public static string ArchiveCategories {
+            get {
+                return ResourceManager.GetString("ArchiveCategories", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Archive Category.
+        /// </summary>
+        public static string ArchiveCategory {
+            get {
+                return ResourceManager.GetString("ArchiveCategory", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Archive Item.
+        /// </summary>
+        public static string ArchiveItem {
+            get {
+                return ResourceManager.GetString("ArchiveItem", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Archive Items.
+        /// </summary>
+        public static string ArchiveItems {
+            get {
+                return ResourceManager.GetString("ArchiveItems", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Audio.
+        /// </summary>
+        public static string Audio {
+            get {
+                return ResourceManager.GetString("Audio", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Audit Information.
         /// </summary>
         public static string AuditInformation {
@@ -291,6 +336,24 @@ namespace K9.Base.Globalisation {
         public static string Browse {
             get {
                 return ResourceManager.GetString("Browse", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Category.
+        /// </summary>
+        public static string Category {
+            get {
+                return ResourceManager.GetString("Category", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Category.
+        /// </summary>
+        public static string CategoryLabel {
+            get {
+                return ResourceManager.GetString("CategoryLabel", resourceCulture);
             }
         }
         
@@ -579,6 +642,15 @@ namespace K9.Base.Globalisation {
         public static string DetailsText {
             get {
                 return ResourceManager.GetString("DetailsText", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Documents.
+        /// </summary>
+        public static string Documents {
+            get {
+                return ResourceManager.GetString("Documents", resourceCulture);
             }
         }
         
@@ -1452,6 +1524,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Photos.
+        /// </summary>
+        public static string Photos {
+            get {
+                return ResourceManager.GetString("Photos", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Please email our support team for further information..
         /// </summary>
         public static string PleaseContactSupport {
@@ -1853,6 +1934,15 @@ namespace K9.Base.Globalisation {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Uploaded Files.
+        /// </summary>
+        public static string UploadedFiles {
+            get {
+                return ResourceManager.GetString("UploadedFiles", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Uploaded On.
         /// </summary>
         public static string UploadedOnLabel {
@@ -1984,6 +2074,15 @@ namespace K9.Base.Globalisation {
         public static string Users {
             get {
                 return ResourceManager.GetString("Users", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Videos.
+        /// </summary>
+        public static string Videos {
+            get {
+                return ResourceManager.GetString("Videos", resourceCulture);
             }
         }
         

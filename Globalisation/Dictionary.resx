@@ -769,4 +769,37 @@
   <data name="UploadedOnLabel" xml:space="preserve">
     <value>Uploaded On</value>
   </data>
+  <data name="ArchiveCategories" xml:space="preserve">
+    <value>Archive Categories</value>
+  </data>
+  <data name="ArchiveCategory" xml:space="preserve">
+    <value>Archive Category</value>
+  </data>
+  <data name="ArchiveItem" xml:space="preserve">
+    <value>Archive Item</value>
+  </data>
+  <data name="ArchiveItems" xml:space="preserve">
+    <value>Archive Items</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="CategoryLabel" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Photos" xml:space="preserve">
+    <value>Photos</value>
+  </data>
+  <data name="Videos" xml:space="preserve">
+    <value>Videos</value>
+  </data>
+  <data name="Audio" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="UploadedFiles" xml:space="preserve">
+    <value>Uploaded Files</value>
+  </data>
 </root>

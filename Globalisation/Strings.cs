@@ -53,6 +53,7 @@ namespace K9.Base.Globalisation
 		    public const string IsDeletedLabel = "IsDeletedLabel";
 		    public const string UploadedOnLabel = "UploadedOnLabel";
 		    public const string TitleLabel = "TitleLabel";
+		    public const string CategoryLabel = "CategoryLabel";
         }
 
 		public class Grammar
@@ -87,7 +88,11 @@ namespace K9.Base.Globalisation
 			public const string Upload = "Upload";
 			public const string UploadImages = "UploadImages";
 			public const string UploadFiles = "UploadFiles";
-		}
+		    public const string ArchiveCategory = "ArchiveCategory";
+		    public const string ArchiveCategories = "ArchiveCategories";
+            public const string Category = "Category";
+		    public const string ArchiveItem = "ArchiveItem";
+        }
 
 		public class LanguageCodes
 		{

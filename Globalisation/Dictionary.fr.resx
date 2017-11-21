@@ -766,10 +766,43 @@
   <data name="DeleteMyAccount" xml:space="preserve">
     <value>Supprimer Mon Compte</value>
   </data>
+  <data name="ArchiveCategories" xml:space="preserve">
+    <value>Catégories d'Archive</value>
+  </data>
+  <data name="ArchiveCategory" xml:space="preserve">
+    <value>Catégorie d'Archive</value>
+  </data>
+  <data name="ArchiveItem" xml:space="preserve">
+    <value>Fichier d'Archive</value>
+  </data>
+  <data name="ArchiveItems" xml:space="preserve">
+    <value>Fichiers d'Archive</value>
+  </data>
+  <data name="Category" xml:space="preserve">
+    <value>Catégorie</value>
+  </data>
+  <data name="CategoryLabel" xml:space="preserve">
+    <value>Catégorie</value>
+  </data>
+  <data name="Documents" xml:space="preserve">
+    <value>Documents</value>
+  </data>
+  <data name="Photos" xml:space="preserve">
+    <value>Photos</value>
+  </data>
   <data name="TitleLabel" xml:space="preserve">
     <value>Titre</value>
   </data>
   <data name="UploadedOnLabel" xml:space="preserve">
     <value>Téléchargé Le</value>
+  </data>
+  <data name="Videos" xml:space="preserve">
+    <value>Vidéos</value>
+  </data>
+  <data name="Audio" xml:space="preserve">
+    <value>Audio</value>
+  </data>
+  <data name="UploadedFiles" xml:space="preserve">
+    <value>Fichiers Téléchargés</value>
   </data>
 </root>
